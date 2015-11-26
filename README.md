@@ -1,0 +1,2 @@
+# MAImageViewTool
+MISSAJJ自己写的一个基于SDWebImage自定义的管理网络图片加载的工具类(普通图片加载,渐现Alpha图片加载,菊花Indicator动画加载)
