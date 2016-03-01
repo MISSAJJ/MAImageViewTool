@@ -1,7 +1,7 @@
-//    
-//  MAImageViewTool.h 
-//  MISSAJJ
 //
+//  MAImageViewTool.h
+//  MISSAJJ
+//  https://github.com/MISSAJJ/MAImageViewTool
 //  Created by MISSAJJ on 15/11/24.
 //  Copyright © 2015年 MISSAJJ. All rights reserved.
 //

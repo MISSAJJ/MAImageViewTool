@@ -1,14 +1,14 @@
-//  
-//  MAImageViewTool.m   
-//  MISSAJJ
 //
+//  MAImageViewTool.m
+//  MISSAJJ
+//  https://github.com/MISSAJJ/MAImageViewTool
 //  Created by MISSAJJ on 15/11/24.
 //  Copyright © 2015年 MISSAJJ. All rights reserved.
 //
 
 #import "MAImageViewTool.h"
 #import "UIImageView+WebCache.h"
-#import "UIImageView+UIActivityIndicatorForSDWebImage.h"
+//#import "UIImageView+UIActivityIndicatorForSDWebImage.h"
 @implementation MAImageViewTool
 
 
